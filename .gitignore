@@ -1,0 +1,41 @@
+# Ignore venv
+venv/
+
+# Ignore pycache
+__pycache__/
+
+# Ignore node_modules
+node_modules
+
+# Ignore streamlit cache
+.streamlit
+
+# Ignore webapp/node_modules
+webapp/node_modules
+
+# Ignore webapp/dist
+webapp/dist
+
+# Ignore webapp/public    
+webapp/public
+
+# Ignore webapp/build
+webapp/build
+
+# Ignore webapp/package-lock.json
+webapp/package-lock.json
+
+# Ignore webapp/package.json
+webapp/package.json
+
+# Ignore webapp/tsconfig.json
+webapp/tsconfig.json
+
+# Ignore .git
+.git
+
+# Ignore .env
+.env
+
+# Ignore 
+
